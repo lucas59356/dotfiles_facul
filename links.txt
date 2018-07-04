@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/joshdick/onedark.vim/master/colors/onedark.vim
