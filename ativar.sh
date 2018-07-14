@@ -6,5 +6,5 @@ esac
 
 for item in $(cat items.txt)
 do
-    ln -sib "$(pwd)/$item" "$base/$item"
+    ln -sib "$(pwd)/$item" "$base"
 done
